@@ -3,5 +3,4 @@ hello fsmvu
 
 Attendance: 
 
-- Mecit 
-saed
+-saed
